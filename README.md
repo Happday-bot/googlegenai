@@ -1,1 +1,1 @@
-# googlegenai
+# genai
